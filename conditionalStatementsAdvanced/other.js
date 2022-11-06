@@ -1,0 +1,3 @@
+function personalTitles (input){
+    let 
+}
